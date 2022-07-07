@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T16:30:16.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fPTX5Y8Co9UNt5MatxOi" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T16:31:32.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QJp_tr7_R4F6eJ2YCh3B" version="20.0.4" type="github">
   <diagram id="ftpVaE4ZrUkqRL97NRIl" name="Page-1">
-    <mxGraphModel dx="920" dy="4011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="4220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="FPoC3J4e7JrbTw-nTRbA-2" target="FPoC3J4e7JrbTw-nTRbA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-2" value="Masalah" style="swimlane;fontSize=12;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="10" y="-3500" width="810" height="210" as="geometry" />
         </mxCell>
@@ -47,7 +50,7 @@
           <mxGeometry x="137" y="-3250" width="556" height="220" as="geometry" />
         </mxCell>
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-53" value="" style="group" vertex="1" connectable="0" parent="FPoC3J4e7JrbTw-nTRbA-18">
-          <mxGeometry x="23" y="31" width="508.5" height="219" as="geometry" />
+          <mxGeometry x="24" y="31" width="508.5" height="219" as="geometry" />
         </mxCell>
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-35" value="Studi Pustaka" style="swimlane;fontSize=12;" vertex="1" parent="FPoC3J4e7JrbTw-nTRbA-53">
           <mxGeometry y="57.1304347826087" width="240" height="114.2608695652174" as="geometry" />
@@ -77,19 +80,11 @@
             <mxPoint x="253" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FPoC3J4e7JrbTw-nTRbA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="413" y="-3290" as="sourcePoint" />
-            <mxPoint x="413" y="-3250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FPoC3J4e7JrbTw-nTRbA-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="FPoC3J4e7JrbTw-nTRbA-55">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415.0000000000002" y="-2720" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="FPoC3J4e7JrbTw-nTRbA-55" target="FPoC3J4e7JrbTw-nTRbA-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-55" value="Pengelolaan Data Awal" style="swimlane;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="137" y="-2990" width="556" height="230" as="geometry" />
+          <mxGeometry x="137" y="-2991" width="556" height="230" as="geometry" />
         </mxCell>
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-57" value="Data Preparation" style="swimlane;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="FPoC3J4e7JrbTw-nTRbA-55">
           <mxGeometry x="23" y="70" width="157" height="120" as="geometry" />
@@ -101,7 +96,7 @@
           <mxGeometry x="380" y="70" width="152.75" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-61" value="Penerapan Metode" style="swimlane;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="136" y="-2600" width="556" height="200" as="geometry" />
+          <mxGeometry x="137" y="-2730" width="556" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
