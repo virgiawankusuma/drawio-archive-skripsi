@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T16:54:39.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UrCPdzm6QlMJLp2qibJN" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T17:00:06.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Jrk0NmA_GWpPtJSYek1o" version="20.1.1" type="github">
   <diagram id="ftpVaE4ZrUkqRL97NRIl" name="Page-1">
     <mxGraphModel dx="745" dy="3915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-37" value="Online Public Dataset Provider" style="swimlane;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-53" vertex="1">
           <mxGeometry x="268.5" y="57.1304347826087" width="240" height="114.2608695652174" as="geometry" />
         </mxCell>
-        <mxCell id="FPoC3J4e7JrbTw-nTRbA-39" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Data yang diperoleh untuk melatih model Machine Learning berasal dari Kaggle Dataset Publik dengan judul Garbage Classification (12 classes) oleh Mostafa Mohamed yang peneliti perbaiki lagi dengan metode down sampling, karena terdapat kelas yang dapat menyebabkan bias pada model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-37" vertex="1">
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-39" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Data yang diperoleh untuk melatih &lt;i&gt;model Machine Learning &lt;/i&gt;berasal dari Kaggle Dataset Publik dengan judul Garbage Classification (12 classes) oleh Mostafa Mohamed yang peneliti perbaiki lagi dengan metode &lt;i&gt;down sampling&lt;/i&gt;, karena terdapat kelas yang dapat menyebabkan bias pada model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-37" vertex="1">
           <mxGeometry y="19.04347826086957" width="240" height="95.21739130434784" as="geometry" />
         </mxCell>
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-43" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;entryX=0.539;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="FPoC3J4e7JrbTw-nTRbA-53" source="FPoC3J4e7JrbTw-nTRbA-35" target="FPoC3J4e7JrbTw-nTRbA-37" edge="1">
@@ -89,7 +89,7 @@
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-57" value="Data Collecting" style="swimlane;fontFamily=Helvetica;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-55" vertex="1">
           <mxGeometry x="12" y="68" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Pu13_7xQ0A8VnXWu68sf-4" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Tahap pertama dari proses pengerjaan proyek ML adalah data collecting, yaitu proses pengumpulan data m&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;enggunakan dataset yang telah ada pada Kaggle.&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="FPoC3J4e7JrbTw-nTRbA-57">
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-4" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Tahap pertama dari proses pengerjaan proyek &lt;i&gt;Machine Learning&lt;/i&gt; adalah &lt;i&gt;data collecting&lt;/i&gt;, yaitu proses pengumpulan data m&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;enggunakan &lt;i&gt;dataset&lt;/i&gt; yang telah ada pada Kaggle.&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="FPoC3J4e7JrbTw-nTRbA-57">
           <mxGeometry y="23" width="160" height="107" as="geometry" />
         </mxCell>
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-59" value="Data Cleaning" style="swimlane;fontFamily=Helvetica;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-55" vertex="1">
@@ -101,7 +101,7 @@
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-60" value="Data Transformation" style="swimlane;fontFamily=Helvetica;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-55" vertex="1">
           <mxGeometry x="383" y="68" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Pu13_7xQ0A8VnXWu68sf-9" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Data yang sudah dibersihkan akan ditransformasi seperti scaling data, standarisasi, normalisasi, mengonversi data menjadi variabel kategori, serta spliting data ke data train dan test&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="FPoC3J4e7JrbTw-nTRbA-60">
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-9" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Data yang sudah dibersihkan akan ditransformasi seperti scaling data, standarisasi, normalisasi, mengonversi data menjadi variabel kategori, serta &lt;i&gt;spliting&lt;/i&gt; data ke data train dan test&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="FPoC3J4e7JrbTw-nTRbA-60">
           <mxGeometry y="23" width="160" height="107" as="geometry" />
         </mxCell>
         <mxCell id="Pu13_7xQ0A8VnXWu68sf-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="FPoC3J4e7JrbTw-nTRbA-55" target="FPoC3J4e7JrbTw-nTRbA-60">
@@ -127,13 +127,13 @@
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-61" value="Penerapan Metode" style="swimlane;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="159.5" y="-2770" width="240" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Pu13_7xQ0A8VnXWu68sf-19" value="&lt;span style=&quot;&quot;&gt;Data yang telah diolah tadi kemudian akan diterapkan ke model Machine Learning. Metode yang digunakan adalah&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;&quot;&gt;Convolutional Neural Network (CNN) &lt;/i&gt;serta&amp;nbsp;menerapkan Transfer Learning menggunakan Pre-trained Model &lt;i&gt;MobileNetV2&lt;/i&gt;&amp;nbsp;yang dilatih pada Google Colab." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="FPoC3J4e7JrbTw-nTRbA-61">
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-19" value="Data yang telah diolah tadi kemudian akan diterapkan ke &lt;i&gt;model Machine Learning&lt;/i&gt;. Metode yang digunakan adalah&amp;nbsp;&lt;i style=&quot;&quot;&gt;Convolutional Neural Network (CNN) &lt;/i&gt;serta&amp;nbsp;menerapkan &lt;i&gt;Transfer Learning &lt;/i&gt;menggunakan &lt;i&gt;Pre-trained Model MobileNetV2&lt;/i&gt;&amp;nbsp;yang dilatih pada Google Colab." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="FPoC3J4e7JrbTw-nTRbA-61">
           <mxGeometry y="23" width="240" height="127" as="geometry" />
         </mxCell>
         <mxCell id="Pu13_7xQ0A8VnXWu68sf-20" value="Ekspor Model" style="swimlane;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="453" y="-2770" width="240" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Pu13_7xQ0A8VnXWu68sf-21" value="Setelah Model Machine Learning dilatih pada proses Penerapan Metode, model akan diekspor ke format SavedModel kemudian akan dikonversi ke dalam bentuk file JSON menggunakan Library &lt;i&gt;TensorFlow.js&lt;/i&gt;, agar bisa digunakan pada web browser." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Pu13_7xQ0A8VnXWu68sf-20">
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-21" value="Setelah &lt;i&gt;Model Machine Learning &lt;/i&gt;dilatih pada proses Penerapan Metode, model akan diekspor ke format SavedModel kemudian akan dikonversi ke dalam bentuk file JSON menggunakan Library &lt;i&gt;TensorFlow.js&lt;/i&gt;, agar bisa digunakan pada web browser." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Pu13_7xQ0A8VnXWu68sf-20">
           <mxGeometry y="23" width="240" height="127" as="geometry" />
         </mxCell>
         <mxCell id="Pu13_7xQ0A8VnXWu68sf-26" value="Penerapan Model pada Web" style="swimlane;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
