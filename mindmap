@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T18:43:07.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3poUPb6HlC-FtCXto7aM" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T15:04:45.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PUoYit9eYA4HGNTb29s3" version="20.1.1" type="github">
   <diagram id="ftpVaE4ZrUkqRL97NRIl" name="Page-1">
-    <mxGraphModel dx="823" dy="3958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="602" dy="3836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,20 +83,46 @@
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="1" source="FPoC3J4e7JrbTw-nTRbA-55" target="FPoC3J4e7JrbTw-nTRbA-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FPoC3J4e7JrbTw-nTRbA-55" value="Pengelolaan Data Awal" style="swimlane;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="137" y="-3010" width="556" height="230" as="geometry" />
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-55" value="Pengelolaan Data Awal" style="swimlane;fontFamily=Helvetica;fontSize=12;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="137" y="-3010" width="556" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="FPoC3J4e7JrbTw-nTRbA-57" value="Data Preparation" style="swimlane;fontFamily=Helvetica;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-55" vertex="1">
-          <mxGeometry x="23" y="70" width="157" height="120" as="geometry" />
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-57" value="Data Collecting" style="swimlane;fontFamily=Helvetica;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-55" vertex="1">
+          <mxGeometry x="12" y="68" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="FPoC3J4e7JrbTw-nTRbA-59" value="Data Preprocessing" style="swimlane;fontFamily=Helvetica;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-55" vertex="1">
-          <mxGeometry x="198" y="70" width="160" height="120" as="geometry" />
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-4" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Tahap pertama dari proses pengerjaan proyek ML adalah data collecting, yaitu proses pengumpulan data m&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;enggunakan dataset yang telah ada pada Kaggle.&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="FPoC3J4e7JrbTw-nTRbA-57">
+          <mxGeometry y="23" width="160" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="FPoC3J4e7JrbTw-nTRbA-60" value="Data Processing" style="swimlane;fontFamily=Helvetica;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-55" vertex="1">
-          <mxGeometry x="380" y="70" width="152.75" height="120" as="geometry" />
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-59" value="Data Cleaning" style="swimlane;fontFamily=Helvetica;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-55" vertex="1">
+          <mxGeometry x="193" y="68" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Data yang diperoleh akan dibersihkan dan diproses seperti menjaga konsistensi format, skala ,&amp;nbsp; menghilangkan duplikasi dan missing value pada data, serta Skewness Distribution&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="FPoC3J4e7JrbTw-nTRbA-59">
+          <mxGeometry y="23" width="170" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-60" value="Data Transformation" style="swimlane;fontFamily=Helvetica;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-55" vertex="1">
+          <mxGeometry x="383" y="68" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-9" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Data yang sudah dibersihkan akan ditransformasi seperti scaling data, standarisasi, normalisasi, mengonversi data menjadi variabel kategori, serta spliting data ke data train dan test&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="FPoC3J4e7JrbTw-nTRbA-60">
+          <mxGeometry y="23" width="160" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="FPoC3J4e7JrbTw-nTRbA-55" target="FPoC3J4e7JrbTw-nTRbA-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="83" y="68" as="sourcePoint" />
+            <mxPoint x="263" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="83" y="50" />
+              <mxPoint x="273" y="50" />
+              <mxPoint x="463" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-13" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="FPoC3J4e7JrbTw-nTRbA-55" source="FPoC3J4e7JrbTw-nTRbA-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277.62" y="61" as="sourcePoint" />
+            <mxPoint x="277.62" y="23" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-61" value="Penerapan Metode" style="swimlane;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="137" y="-2750" width="556" height="200" as="geometry" />
+          <mxGeometry x="137" y="-2770" width="556" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
