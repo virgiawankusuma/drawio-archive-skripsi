@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T16:07:26.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gehzH0nVYbOsbDxq-7L-" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T16:53:59.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="dOiRXp4s3beFkffm_Ukn" version="20.1.1" type="github">
   <diagram id="ftpVaE4ZrUkqRL97NRIl" name="Page-1">
     <mxGraphModel dx="745" dy="3915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,13 +133,13 @@
         <mxCell id="Pu13_7xQ0A8VnXWu68sf-20" value="Ekspor Model" style="swimlane;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="453" y="-2770" width="240" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Pu13_7xQ0A8VnXWu68sf-21" value="Setelah Model Machine Learning dilatih pada proses Penerapan Metode, model akan diekspor ke format SavedModel kemudian akan dikonversi ke dalam bentuk file JSON menggunakan Library TensorFlowJS, agar bisa digunakan pada web browser." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Pu13_7xQ0A8VnXWu68sf-20">
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-21" value="Setelah Model Machine Learning dilatih pada proses Penerapan Metode, model akan diekspor ke format SavedModel kemudian akan dikonversi ke dalam bentuk file JSON menggunakan Library &lt;i&gt;TensorFlow.js&lt;/i&gt;, agar bisa digunakan pada web browser." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Pu13_7xQ0A8VnXWu68sf-20">
           <mxGeometry y="23" width="240" height="127" as="geometry" />
         </mxCell>
         <mxCell id="Pu13_7xQ0A8VnXWu68sf-26" value="Penerapan Model pada Web" style="swimlane;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="453" y="-2590" width="240" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Pu13_7xQ0A8VnXWu68sf-27" value="Model Machine Learning yang sudah dikonversi ke bentuk JSON tadi, kemudian akan diterapkan pada Web menggunakan bahasa pemrograman JavaScript dengan menerapkan Library ReactJS agar Antarmuka pada web lebih Reusable dan dapat menerapkan konsep SPA (Single Page Application)." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Pu13_7xQ0A8VnXWu68sf-26">
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-27" value="Model &lt;i&gt;Machine Learning &lt;/i&gt;yang sudah dikonversi ke bentuk JSON tadi, kemudian akan diterapkan pada Web menggunakan bahasa pemrograman &lt;i&gt;JavaScript&lt;/i&gt; dengan menerapkan Library &lt;i&gt;ReactJS&lt;/i&gt; agar Antarmuka pada web lebih Reusable dan dapat menerapkan konsep &lt;i&gt;SPA (Single Page Application).&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Pu13_7xQ0A8VnXWu68sf-26">
           <mxGeometry y="23" width="240" height="127" as="geometry" />
         </mxCell>
         <mxCell id="Pu13_7xQ0A8VnXWu68sf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Pu13_7xQ0A8VnXWu68sf-21" target="Pu13_7xQ0A8VnXWu68sf-26">
@@ -164,13 +164,13 @@
         <mxCell id="Pu13_7xQ0A8VnXWu68sf-31" value="Pengujian" style="swimlane;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="159.5" y="-2590" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Pu13_7xQ0A8VnXWu68sf-32" value="Setelah berhasil diterapkan pada web, aplikasi akan diuji menggunakan Pengujian &lt;i&gt;Black Box, &lt;/i&gt;dan Angket Responden" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Pu13_7xQ0A8VnXWu68sf-31">
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-32" value="Setelah berhasil diterapkan pada web, aplikasi akan diuji menggunakan Pengujian &lt;i&gt;Black Box, &lt;/i&gt;dan Angket Responden." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Pu13_7xQ0A8VnXWu68sf-31">
           <mxGeometry y="23" width="240" height="67" as="geometry" />
         </mxCell>
         <mxCell id="Pu13_7xQ0A8VnXWu68sf-39" value="Hasil" style="swimlane;fontFamily=Helvetica;fontSize=12;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="159.5" y="-2450" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Pu13_7xQ0A8VnXWu68sf-40" value="Jika pengujian aplikasi berhasil, maka akan menghasilkan Aplikasi Image Classification pada Sampah berbasis Web dari Implementasi Algoritma Convolutional Neural Network (CNN)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Pu13_7xQ0A8VnXWu68sf-39">
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-40" value="Jika pengujian aplikasi berhasil, maka akan menghasilkan Aplikasi &lt;i&gt;Image Classification&lt;/i&gt; pada Sampah berbasis Web dari Implementasi &lt;i&gt;Algoritma Convolutional Neural Network (CNN)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Pu13_7xQ0A8VnXWu68sf-39">
           <mxGeometry y="23" width="240" height="87" as="geometry" />
         </mxCell>
         <mxCell id="Pu13_7xQ0A8VnXWu68sf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="Pu13_7xQ0A8VnXWu68sf-27">
