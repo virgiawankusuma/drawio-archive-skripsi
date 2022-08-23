@@ -1,0 +1,172 @@
+<mxfile host="app.diagrams.net" modified="2022-08-23T07:48:04.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="rTG4Ks6vtaC2I2eCZYmU" version="20.2.3" type="github">
+  <diagram id="ftpVaE4ZrUkqRL97NRIl" name="Page-1">
+    <mxGraphModel dx="1117" dy="4118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="1" source="FPoC3J4e7JrbTw-nTRbA-2" target="FPoC3J4e7JrbTw-nTRbA-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-2" value="Masalah" style="swimlane;fontSize=18;startSize=30;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-3500" width="810" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Performa model belum akurat, kurangnya data yang berkualitas dan bervariasi untuk melatih model.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" parent="FPoC3J4e7JrbTw-nTRbA-2" vertex="1">
+          <mxGeometry x="20" y="70" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-73" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="FPoC3J4e7JrbTw-nTRbA-2" source="FPoC3J4e7JrbTw-nTRbA-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="70" as="sourcePoint" />
+            <mxPoint x="405" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="50" />
+              <mxPoint x="405" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Plyw5mVZVksHr3dbfB8L-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Kurangnya Implementasi &lt;i style=&quot;font-size: 18px;&quot;&gt;End-to-End&lt;/i&gt; kepada pengguna melalui Web browser.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;" parent="FPoC3J4e7JrbTw-nTRbA-2" vertex="1">
+          <mxGeometry x="430" y="70" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;" parent="1" target="FPoC3J4e7JrbTw-nTRbA-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.8421052631579" y="-2930" as="targetPoint" />
+            <mxPoint x="415" y="-3150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-18" value="Pengumpulan Data" style="swimlane;fontSize=18;startSize=30;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="137" y="-3310" width="556" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-53" value="" style="group" parent="FPoC3J4e7JrbTw-nTRbA-18" vertex="1" connectable="0">
+          <mxGeometry x="24" y="31" width="510" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-35" value="Studi Pustaka" style="swimlane;fontSize=18;fontFamily=Times New Roman;startSize=30;" parent="FPoC3J4e7JrbTw-nTRbA-53" vertex="1">
+          <mxGeometry x="-2" y="29" width="510" height="114.26" as="geometry" />
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Menganalisis beberapa sumber penelitian yang terkait seperti Jurnal, Buku, Artikel, Karya Ilmiah, dan Lainnya.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-35" vertex="1">
+          <mxGeometry y="30" width="510" height="84.26" as="geometry" />
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-50" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-53" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="253" y="28.56521739130435" as="sourcePoint" />
+            <mxPoint x="253" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5f-m4eWwpbkQe5mS7gN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" parent="1" source="FPoC3J4e7JrbTw-nTRbA-55" target="U5f-m4eWwpbkQe5mS7gN-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-55" value="Pengelolaan Data Awal" style="swimlane;fontFamily=Times New Roman;fontSize=18;startSize=30;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-3089" width="810" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-57" value="Data Collecting" style="swimlane;fontFamily=Times New Roman;fontSize=18;" parent="FPoC3J4e7JrbTw-nTRbA-55" vertex="1">
+          <mxGeometry x="12" y="68" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;Menggunakan &lt;i style=&quot;font-size: 18px;&quot;&gt;dataset &lt;/i&gt;Kaggle Garbage Classification (12 classes) oleh Mostafa Mohamed, yang peneliti perbaiki dengan metode &lt;i style=&quot;font-size: 18px;&quot;&gt;down sampling&lt;/i&gt;, karena &lt;i style=&quot;font-size: 18px;&quot;&gt;Skewness Distribution&lt;/i&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" parent="FPoC3J4e7JrbTw-nTRbA-57" vertex="1">
+          <mxGeometry y="23" width="240" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-59" value="Data Cleaning" style="swimlane;fontFamily=Times New Roman;fontSize=18;" parent="FPoC3J4e7JrbTw-nTRbA-55" vertex="1">
+          <mxGeometry x="275" y="68" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Data dibersihkan &amp;amp; diproses seperti menjaga konsistensi format, skala, menghilangkan duplikasi dan missing value pada data, serta Skewness Distribution&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="FPoC3J4e7JrbTw-nTRbA-59" vertex="1">
+          <mxGeometry y="23" width="260" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="FPoC3J4e7JrbTw-nTRbA-55" source="FPoC3J4e7JrbTw-nTRbA-57" target="FPoC3J4e7JrbTw-nTRbA-60" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="83" y="68" as="sourcePoint" />
+            <mxPoint x="263" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="132" y="50" />
+              <mxPoint x="273" y="50" />
+              <mxPoint x="675" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPoC3J4e7JrbTw-nTRbA-60" value="Data Transformation" style="swimlane;fontFamily=Times New Roman;fontSize=18;" parent="FPoC3J4e7JrbTw-nTRbA-55" vertex="1">
+          <mxGeometry x="560" y="68" width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data ditransformasi di antaranya scaling data, standarisasi, normalisasi, mengonversi data menjadi variabel kategori, serta &lt;i style=&quot;font-size: 18px;&quot;&gt;splitting&lt;/i&gt; data ke data train dan test&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" parent="FPoC3J4e7JrbTw-nTRbA-60" vertex="1">
+          <mxGeometry y="23" width="230" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="Plyw5mVZVksHr3dbfB8L-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="FPoC3J4e7JrbTw-nTRbA-55" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404.78000000000003" y="68" as="sourcePoint" />
+            <mxPoint x="404.78000000000003" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="Pu13_7xQ0A8VnXWu68sf-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="-2390" />
+              <mxPoint x="20" y="-2650" />
+            </Array>
+            <mxPoint x="40" y="-2650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-35" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Gagal&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Times New Roman;" parent="Pu13_7xQ0A8VnXWu68sf-33" vertex="1" connectable="0">
+          <mxGeometry x="-0.4251" y="4" relative="1" as="geometry">
+            <mxPoint x="6" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-41" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Berhasil&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.351;entryDx=0;entryDy=0;fontSize=18;entryPerimeter=0;fontFamily=Times New Roman;exitX=1.003;exitY=0.364;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Pu13_7xQ0A8VnXWu68sf-32" target="Pu13_7xQ0A8VnXWu68sf-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-2406" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-31" value="Pengujian" style="swimlane;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-2448" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-32" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Aplikasi diuji menggunakan Pengujian &lt;i&gt;Black Box, &lt;/i&gt;dan Angket Responden&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="Pu13_7xQ0A8VnXWu68sf-31" vertex="1">
+          <mxGeometry y="23" width="300" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-39" value="Hasil" style="swimlane;fontFamily=Times New Roman;fontSize=18;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="480" y="-2448" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu13_7xQ0A8VnXWu68sf-40" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Jika pengujian berhasil, maka akan menghasilkan Aplikasi &lt;i&gt;Image Classification&lt;/i&gt; pemilahan jenis Sampah berbasis Web&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="Pu13_7xQ0A8VnXWu68sf-39" vertex="1">
+          <mxGeometry y="23" width="310" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="vXzsaP8zb9LwVDpUy9cl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U5f-m4eWwpbkQe5mS7gN-1" target="Pu13_7xQ0A8VnXWu68sf-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5f-m4eWwpbkQe5mS7gN-1" value="Penerapan Metode" style="swimlane;fontFamily=Times New Roman;fontSize=18;startSize=30;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-2790" width="750" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="U5f-m4eWwpbkQe5mS7gN-2" value="Pembuatan Model" style="swimlane;fontFamily=Times New Roman;fontSize=18;" parent="U5f-m4eWwpbkQe5mS7gN-1" vertex="1">
+          <mxGeometry x="20" y="68" width="220" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="U5f-m4eWwpbkQe5mS7gN-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Data diterapkan ke &lt;i&gt;model Machine Learning&lt;/i&gt;&amp;nbsp;dengan metode &lt;i&gt;Algoritma&amp;nbsp;Convolutional Neural Network (CNN)&amp;nbsp;&lt;/i&gt;serta&amp;nbsp;menerapkan &lt;i&gt;Transfer Learning &lt;/i&gt;menggunakan &lt;i&gt;Pre-trained Model&amp;nbsp;MobileNetV2&lt;/i&gt;&amp;nbsp;yang dilatih pada Google Colab.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="U5f-m4eWwpbkQe5mS7gN-2" vertex="1">
+          <mxGeometry y="23" width="220" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="U5f-m4eWwpbkQe5mS7gN-4" value="Ekspor dan Konversi Model" style="swimlane;fontFamily=Times New Roman;fontSize=18;" parent="U5f-m4eWwpbkQe5mS7gN-1" vertex="1">
+          <mxGeometry x="260" y="68" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="U5f-m4eWwpbkQe5mS7gN-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;Model Machine Learning &lt;/i&gt;diekspor ke format SavedModel serta dikonversi ke JSON menggunakan Library &lt;i&gt;TensorFlow.js&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="U5f-m4eWwpbkQe5mS7gN-4" vertex="1">
+          <mxGeometry y="23" width="230" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="U5f-m4eWwpbkQe5mS7gN-6" value="Penerapan pada Web" style="swimlane;fontFamily=Times New Roman;fontSize=18;" parent="U5f-m4eWwpbkQe5mS7gN-1" vertex="1">
+          <mxGeometry x="510" y="68" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="U5f-m4eWwpbkQe5mS7gN-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Model &lt;i&gt;Machine Learning &lt;/i&gt;hasil konversi diterapkan ke Web menggunakan &lt;i&gt;JavaScript&lt;/i&gt; dengan Library &lt;i&gt;ReactJS&lt;/i&gt; agar Antarmuka Reusable &amp;amp; dapat menerapkan &lt;i&gt;SPA (Single Page Application).&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="U5f-m4eWwpbkQe5mS7gN-6" vertex="1">
+          <mxGeometry y="23" width="210" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="U5f-m4eWwpbkQe5mS7gN-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="U5f-m4eWwpbkQe5mS7gN-1" source="U5f-m4eWwpbkQe5mS7gN-2" target="U5f-m4eWwpbkQe5mS7gN-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="83" y="68" as="sourcePoint" />
+            <mxPoint x="263" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="50" />
+              <mxPoint x="273" y="50" />
+              <mxPoint x="615" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Plyw5mVZVksHr3dbfB8L-4" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="-3450" as="sourcePoint" />
+            <mxPoint x="620" y="-3430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="-3450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
