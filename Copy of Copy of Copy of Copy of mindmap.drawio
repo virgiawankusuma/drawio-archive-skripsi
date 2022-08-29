@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T16:19:28.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="VxdfBhpcBGaAPcKHMse9" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T16:20:20.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="KAZ2Fov6C6T45UZGPJQq" version="20.2.7" type="github">
   <diagram id="ftpVaE4ZrUkqRL97NRIl" name="Page-1">
     <mxGraphModel dx="978" dy="4042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ODFEOy6D_pJVZz5E-LB7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPoC3J4e7JrbTw-nTRbA-2" target="FPoC3J4e7JrbTw-nTRbA-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-2" value="Masalah" style="swimlane;fontSize=18;startSize=30;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="10" y="-3500" width="810" height="180" as="geometry" />
         </mxCell>
@@ -24,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Plyw5mVZVksHr3dbfB8L-2" value="Bagaimana Implementasi Algoritma Convolutional Neural Network (CNN) dalam mengklasifikasikan jenis sampah Organik dan Anorganik ?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;align=center;" parent="FPoC3J4e7JrbTw-nTRbA-2" vertex="1">
-          <mxGeometry x="420" y="70" width="370" height="100" as="geometry" />
+          <mxGeometry x="430" y="70" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;" parent="1" target="FPoC3J4e7JrbTw-nTRbA-55" edge="1" source="FPoC3J4e7JrbTw-nTRbA-41">
           <mxGeometry relative="1" as="geometry">
