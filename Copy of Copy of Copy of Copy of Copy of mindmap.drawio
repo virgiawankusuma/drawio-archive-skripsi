@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T10:06:15.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="1EqPhlICT54c4SzcImih" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T16:34:34.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="o9l7GgzElFbdxkIFOsjJ" version="20.2.7" type="github">
   <diagram id="ftpVaE4ZrUkqRL97NRIl" name="Page-1">
-    <mxGraphModel dx="1422" dy="4285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="4078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-55" value="Pengelolaan Data Awal" style="swimlane;fontFamily=Times New Roman;fontSize=18;startSize=30;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-3089" width="810" height="260" as="geometry" />
+          <mxGeometry x="10" y="-3080" width="810" height="260" as="geometry" />
         </mxCell>
         <mxCell id="FPoC3J4e7JrbTw-nTRbA-57" value="Data Collecting" style="swimlane;fontFamily=Times New Roman;fontSize=18;" parent="FPoC3J4e7JrbTw-nTRbA-55" vertex="1">
           <mxGeometry x="12" y="68" width="240" height="180" as="geometry" />
@@ -115,19 +115,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-7" value="Permasalahan" style="swimlane;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="48" y="-3490" width="335" height="163" as="geometry" />
+          <mxGeometry x="48" y="-3505" width="335" height="163" as="geometry" />
         </mxCell>
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-10" value="Permasalahan sampah terjadi akibat proses daur ulang yang lama karena sampah tercampur dan tidak ada proses pemisahan dan pemilahan kembali pada TPA." style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;align=center;verticalAlign=middle;" vertex="1" parent="Yc8w8ZCrsOE5bA9uPSmD-7">
-          <mxGeometry x="3" y="23" width="330" height="140" as="geometry" />
+          <mxGeometry y="23" width="335" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;" edge="1" parent="1" source="Yc8w8ZCrsOE5bA9uPSmD-11" target="Yc8w8ZCrsOE5bA9uPSmD-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-11" value="Pengumpulan Data" style="swimlane;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="423" y="-3490" width="355" height="163" as="geometry" />
+          <mxGeometry x="423" y="-3505" width="355" height="163" as="geometry" />
         </mxCell>
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-3" value="Studi Pustaka" style="swimlane;fontSize=18;fontFamily=Times New Roman;" vertex="1" parent="Yc8w8ZCrsOE5bA9uPSmD-11">
           <mxGeometry x="12.5" y="43" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Menganalisis beberapa sumber penelitian yang terkait seperti Jurnal, Buku, Artikel, Karya Ilmiah, dan Lainnya.&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="Yc8w8ZCrsOE5bA9uPSmD-3">
           <mxGeometry y="24" width="330" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;" edge="1" parent="1" source="Yc8w8ZCrsOE5bA9uPSmD-17" target="Yc8w8ZCrsOE5bA9uPSmD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-17" value="Metode Penelitian" style="swimlane;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-3300" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-22" value="Desain penelitian yang digunakan dalam penelitian ini adalah menggunakan jenis penelitian Eksperimen dan analisis datanya menggunakan Kuantitatif" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;align=center;verticalAlign=middle;" vertex="1" parent="Yc8w8ZCrsOE5bA9uPSmD-17">
+          <mxGeometry y="23" width="250" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;" edge="1" parent="1" source="Yc8w8ZCrsOE5bA9uPSmD-23" target="Yc8w8ZCrsOE5bA9uPSmD-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-23" value="Alat" style="swimlane;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="289" y="-3300" width="311" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-24" value="&lt;i&gt;&lt;span&gt;Model Machine Learning&lt;/span&gt;&lt;/i&gt;&lt;span&gt; dibuat menggunakan &lt;i&gt;Python&lt;/i&gt; &lt;i&gt;Notebook&lt;/i&gt; yang dijalankan di &lt;i&gt;Google Colab.&amp;nbsp;&lt;/i&gt;&lt;/span&gt;Implementasi pada web dibuat menggunakan bahasa pemrograman &lt;i&gt;JavaScript &lt;/i&gt;dengan Library &lt;i&gt;ReactJS &lt;/i&gt;dan &lt;i&gt;TensorFlow.js&lt;/i&gt; yang ditulis menggunakan &lt;i&gt;Visual Studio Code&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;align=center;verticalAlign=middle;" vertex="1" parent="Yc8w8ZCrsOE5bA9uPSmD-23">
+          <mxGeometry y="23" width="310" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-26" value="Algoritma" style="swimlane;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-3300" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-27" value="Penelitian menggunakan Algoritma Convolutional Neural Network (CNN)" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;align=center;verticalAlign=middle;" vertex="1" parent="Yc8w8ZCrsOE5bA9uPSmD-26">
+          <mxGeometry y="23" width="190" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" source="Yc8w8ZCrsOE5bA9uPSmD-27" target="FPoC3J4e7JrbTw-nTRbA-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
