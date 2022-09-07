@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T03:29:10.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="gUGVDW_wbd39hpZ6p34Y" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T04:27:04.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="p2smmU-T32JirxR4v6Zn" version="20.2.8" type="github">
   <diagram id="ftpVaE4ZrUkqRL97NRIl" name="Page-1">
-    <mxGraphModel dx="745" dy="3915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="4042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,22 +115,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-7" value="Permasalahan" style="swimlane;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="48" y="-3505" width="335" height="163" as="geometry" />
+          <mxGeometry x="10" y="-3505" width="370" height="163" as="geometry" />
         </mxCell>
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-10" value="Permasalahan sampah terjadi akibat proses daur ulang yang lama karena sampah tercampur dan tidak ada proses pemisahan dan pemilahan kembali pada TPA." style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;align=center;verticalAlign=middle;" parent="Yc8w8ZCrsOE5bA9uPSmD-7" vertex="1">
-          <mxGeometry y="23" width="335" height="140" as="geometry" />
+          <mxGeometry y="23" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;" parent="1" source="Yc8w8ZCrsOE5bA9uPSmD-11" target="Yc8w8ZCrsOE5bA9uPSmD-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-11" value="Pengumpulan Data" style="swimlane;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="423" y="-3505" width="355" height="163" as="geometry" />
+          <mxGeometry x="423" y="-3505" width="397" height="163" as="geometry" />
         </mxCell>
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-3" value="Studi Pustaka" style="swimlane;fontSize=18;fontFamily=Times New Roman;" parent="Yc8w8ZCrsOE5bA9uPSmD-11" vertex="1">
-          <mxGeometry x="12.5" y="43" width="330" height="100" as="geometry" />
+          <mxGeometry x="12.5" y="43" width="370" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Menganalisis beberapa sumber penelitian yang terkait seperti Jurnal, Buku, Artikel, Karya Ilmiah, dan Lainnya.&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="Yc8w8ZCrsOE5bA9uPSmD-3" vertex="1">
-          <mxGeometry y="24" width="330" height="74.5" as="geometry" />
+          <mxGeometry y="24" width="370" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;" parent="1" source="Yc8w8ZCrsOE5bA9uPSmD-17" target="Yc8w8ZCrsOE5bA9uPSmD-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
