@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T00:36:23.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="SroF-YoJRFfynquuvK9I" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-10T15:43:46.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="sLiihbrIN2JbbuPADx2R" version="20.3.0" type="github">
   <diagram id="ftpVaE4ZrUkqRL97NRIl" name="Page-1">
     <mxGraphModel dx="782" dy="3935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-7" value="Permasalahan" style="swimlane;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="10" y="-3505" width="370" height="163" as="geometry" />
         </mxCell>
-        <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Belum adanya pemilahan yang mengakibatkan penumpukan sampah, sehingga proses daur ulang terhambat dan penerapan&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;klasifikasi sampah dengan menggunakan teknologi.&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;align=center;verticalAlign=middle;" parent="Yc8w8ZCrsOE5bA9uPSmD-7" vertex="1">
+        <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Belum adanya pemilahan sampah yang mengakibatkan sampah tercampur dan menumpuk, sehingga proses daur ulang menjadi terhambat&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;align=center;verticalAlign=middle;" parent="Yc8w8ZCrsOE5bA9uPSmD-7" vertex="1">
           <mxGeometry y="23" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Yc8w8ZCrsOE5bA9uPSmD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;" parent="1" source="Yc8w8ZCrsOE5bA9uPSmD-11" target="Yc8w8ZCrsOE5bA9uPSmD-17" edge="1">
