@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-24T15:46:22.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TnnXjPeT7eYD7EyIZ0li" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-24T15:51:22.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="gB46Z8FHYBO5Kj2gt9JF" version="20.7.4" type="github">
   <diagram id="ftpVaE4ZrUkqRL97NRIl" name="Page-1">
-    <mxGraphModel dx="1323" dy="4254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="4066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
         <mxCell id="U5f-m4eWwpbkQe5mS7gN-1" value="Penerapan Metode" style="swimlane;fontFamily=Times New Roman;fontSize=18;startSize=30;" parent="1" vertex="1">
           <mxGeometry x="40" y="-2790" width="750" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="U5f-m4eWwpbkQe5mS7gN-2" value="Pemilihan Model" style="swimlane;fontFamily=Times New Roman;fontSize=18;" parent="U5f-m4eWwpbkQe5mS7gN-1" vertex="1">
+        <mxCell id="U5f-m4eWwpbkQe5mS7gN-2" value="Model Selection &amp; Training" style="swimlane;fontFamily=Times New Roman;fontSize=18;" parent="U5f-m4eWwpbkQe5mS7gN-1" vertex="1">
           <mxGeometry x="20" y="68" width="220" height="202" as="geometry" />
         </mxCell>
         <mxCell id="U5f-m4eWwpbkQe5mS7gN-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Data diterapkan ke &lt;i&gt;model Machine Learning&lt;/i&gt;&amp;nbsp;dengan metode &lt;i&gt;Algoritma&amp;nbsp;Convolutional Neural Network (CNN)&amp;nbsp;&lt;/i&gt;serta&amp;nbsp;menerapkan &lt;i&gt;Transfer Learning &lt;/i&gt;menggunakan &lt;i&gt;Model Architecture MobileNetV2&lt;/i&gt;&amp;nbsp;yang dilatih pada Google Colab.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="U5f-m4eWwpbkQe5mS7gN-2" vertex="1">
